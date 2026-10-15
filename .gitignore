@@ -1,0 +1,6 @@
+myworld/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
